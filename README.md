@@ -1,6 +1,6 @@
 ![alt text](https://github.com/ECJ222/ethereum-developer-tool-list/blob/master/eth.png?raw=true) 
 
-# ethereum-developer-tool-list
+# ethereum-developer-tool-lists
 A guide to available tools, components, patterns, and platforms for developing on Ethereum.
 
 ## Intro
